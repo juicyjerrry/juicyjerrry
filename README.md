@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juicyjerrry
+- 👋 Hi, I’m [Jeremiah K](https://juicyjerrry.github.io/react-portfolio/) 
 - 👀 I’m interested in changing careers from Legal Processes and Administration to Software Development and Programming
-- 🥾 I'm looking for bootcamps or similar structured learning experiences that can get me on track to a full time programming job
+- 🥾 I've graduated from the [University of Minnesota- Twin Cities Full Stack Bootcamp](https://bootcamp.umn.edu/coding/) and am currently refining my skills and making more
 - 🌱 I’m currently learning Python 3.0 from https://www.freecodecamp.org/learn/
-- 💞️ I’m looking to collaborate on any beginner projects that you may think I can solve myself, or if theres something you'd be comfortable showing me the ropes on :)
+- 💞️ I’m looking to collaborate on open source projects. What really interests me are social media APIs and AI.
 - 📫 How to reach me @juicyjerrry on twitter or my email is kendljeremiah@gmail.com
 
 <!---
