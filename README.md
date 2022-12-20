@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Jeremiah K](https://juicyjerrry.github.io/react-portfolio/) 
+- 👋 Hi, I’m [Jeremiah](https://juicyjerrry.github.io/react-portfolio/) 
 - 👀 I’m interested in changing careers from Legal Processes and Administration to Software Development and Programming
 - 🥾 I've graduated from the [University of Minnesota- Twin Cities Full Stack Bootcamp](https://bootcamp.umn.edu/coding/) and am currently refining my skills and making more
 - 🌱 I’m currently learning Python 3.0 from https://www.freecodecamp.org/learn/
