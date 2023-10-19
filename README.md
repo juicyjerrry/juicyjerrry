@@ -1,9 +1,9 @@
-- 👋 Hi, I’m [Jeremiah](https://juicyjerrry.github.io/react-portfolio/) 
-- 👀 I’m interested in changing careers from Legal Processes and Administration to Software Development and Programming
-- 🥾 I've graduated from the [University of Minnesota- Twin Cities Full Stack Bootcamp](https://bootcamp.umn.edu/coding/) and am currently refining my skills and making more
-- 🌱 I’m currently working with OpenFrameworks to create as many little sketches as I can
-- 💞️ I’m looking to collaborate on open source projects. What really interests me are social media APIs, Machine Learning, Open Source Projects, and Unconventional Website Design.
-- 📫 How to reach me @juicyjerrry on twitter or my email is kendljeremiah@gmail.com
+- 👋 Hi, I’m [Jeremiah](https://www.instagram.com/juicyjerrry/) 
+- 👀 I’m building my career in the Department of Justice and growing into a career in web design
+- 🥾 I've graduated from the [University of Minnesota- Twin Cities Full Stack Bootcamp](https://bootcamp.umn.edu/coding/) and am currently looking for more work
+- 🌱 I’m currently working with alot of little projects, as well as in OpenFrameworks and P5js to create as many little sketches as I can
+- 💞️ I’m looking to collaborate on open source projects. What really interests me are Front-End Design, Machine Learning, Open Source Projects, and Unique Web Spaces.
+- 📫 My email is kendljeremiah@gmail.com
 
 <!---
 juicyjerrry/juicyjerrry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
